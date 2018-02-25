@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "a demo project for learning git",
   "main": "index.js",
-  "scripts": {g
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint ."
   },
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/rkaw92/warsawjs-workshop-17-git#readme",
   "devDependencies": {
-    "eslint": "^4.18.1"
+    "eslint": "^4.18.1",
+    "express": "^4.16.2"
   }
 }

@@ -1,4 +1,4 @@
 .idea
 .idea/*
 patch/*
-/node_modules
+node_modules
